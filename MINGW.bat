@@ -1,2 +1,2 @@
 @echo off
-call "C:\Program Files (x86)\CodeBlocks\MinGW\mingwvars.bat"
+call "%PROGRAMFILES(x86)%\CodeBlocks\MinGW\mingwvars.bat"
