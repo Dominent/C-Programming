@@ -1,4 +1,5 @@
 *.exe
+*.idb
 *.c~
 *.obj
 *.pdb
